@@ -13,10 +13,10 @@ phrase_list = ['AAAA',
 
 # Song Phrase Structure (Pre-Chorus):
 PC2_phrase_list = ['AA',
-				   'AB',
+	           'AB',
                    'AAAA',
-	               'ABAB',
-	               'AABB',
-	               'AABA',
-	               'ABAA',
-	               'AAAB']
+	           'ABAB',
+	           'AABB',
+	           'AABA',
+	           'ABAA',
+	           'AAAB']
